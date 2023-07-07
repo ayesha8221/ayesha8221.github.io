@@ -31,7 +31,7 @@
             "name": "Meezaan Davids",
             "desc": "Ayesha is a bright and dedicated individual who is quickly picking up coding skills. Her positive attitude and willingness to learn make her a valuable asset to our team. Working one on one with Ayesha has been a pleasure. As Ayesha's team lead I have no doubt that she will continue to excel in her coding journey.",
             "id": 5,
-            "image": "https://i.postimg.cc/hvsKWnMG/c12-okuhle-gwotiwe-1-720.jpg"
+            "image": "https://i.postimg.cc/nr5SNxdq/meezaan.jpg"
 
         },
         {
@@ -107,18 +107,21 @@
 
  "education": [
     {
+        "id": 1,
         "type": "education",
         "year": "(2023- current)",
         "school": "Life Choices Academy",
         "work": "Web Development"
     },
     {
+        "id": 2,
         "type": "education",
         "year": "(2019-2021)",
         "school": "High School",
         "work": "Matric"
     },
     {
+        "id":3,
         "type": "experience",
         "year": "(2018-2020)",
         "school": "Institute of Islamic Studies",
