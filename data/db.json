@@ -124,22 +124,36 @@
  "education": [
     {
         "id": 1,
-        "type": "education",
-        "year": "(2023- current)",
-        "school": "Life Choices Academy",
-        "work": "Web Development"
+        "type": "experience",
+        "year": "Oct 2023",
+        "school": "LC Studio",
+        "work": "Intern Web Developer"
     },
     {
         "id": 2,
         "type": "education",
-        "year": "(2019-2021)",
-        "school": "High School",
+        "year": "Apr - Sept 2023",
+        "school": "Life Choices Academy",
+        "work": "6-month Web Development Course"
+    },
+    {
+        "id": 3,
+        "type": "education",
+        "year": "2019-2021",
+        "school": " Al Azhar High School",
         "work": "Matric"
     },
     {
-        "id":3,
+        "id": 4,
+        "type": "education",
+        "year": "2013-2018",
+        "school": "Nisaa Al Quraan Haafith Institute",
+        "work": "Memorisation of the Holy Quran"
+    },
+    {
+        "id": 5,
         "type": "experience",
-        "year": "(2018-2020)",
+        "year": "2018-2020",
         "school": "Institute of Islamic Studies",
         "work": "Student Teacher"
     }
