@@ -62,14 +62,16 @@
          "desc": "We were tasked to create a website of a fictional character and include all traits such as education, skills and experience.",
          "id": 1,
          "image": "https://i.postimg.cc/kXFRnhpd/image.jpg",
-         "link": "https://papaya-fairy-13d0df.netlify.app/"
+         "link": "https://papaya-fairy-13d0df.netlify.app/",
+         "category": "HTML & CSS"
      },
      {
          "title": "LC Group Project",
          "desc": "For our group project we replicated the Life Choices Academy website",
          "id": 2,
          "image": "https://i.postimg.cc/y62n5TG5/blk-lc.png",
-         "link": "https://life-choices-project.netlify.app/"
+         "link": "https://life-choices-project.netlify.app/",
+         "category": "HTML & CSS"
 
      },
      {
@@ -77,14 +79,16 @@
          "desc": "Our Boostrap module end project",
          "id": 3,
          "image": "https://i.postimg.cc/50B8jZ1Q/backgr.jpg",
-         "link": "https://mellifluous-hamster-2eca04.netlify.app/"
+         "link": "https://mellifluous-hamster-2eca04.netlify.app/",
+         "category": "Bootstrap"
      },
      {
          "title": "Calculator",
          "desc": "My calulator using HTML, CSS and JS",
          "id":4,
          "image": "https://i.postimg.cc/SsfmnGPx/editors-keys-h63f-Ledow-K8-unsplash-1.jpg",
-         "link": "https://frabjous-granita-1f98e6.netlify.app/"
+         "link": "https://frabjous-granita-1f98e6.netlify.app/",
+         "category": "Javascript"
 
      },
      {
@@ -92,7 +96,8 @@
          "desc": "I created a BMI calculator using HTML, CSS and JS",
          "id": 5,
          "image": "https://i.postimg.cc/Hx0c2Xrr/bg.jpg",
-         "link": "https://famous-cuchufli-caf48c.netlify.app/"
+         "link": "https://famous-cuchufli-caf48c.netlify.app/",
+         "category": "Javascript"
 
      },
      {
@@ -100,7 +105,8 @@
          "desc": "Our group project was an ecommerce site selling electronics",
          "id": 6,
          "image": "https://i.postimg.cc/2yK0zsCR/the-blowup-Rmjq07-KI20-U-unsplash.jpg",
-         "link": "https://meta-devices-store.netlify.app/"
+         "link": "https://meta-devices-store.netlify.app/",
+         "category": "Javascript"
 
      },
      {
@@ -108,7 +114,8 @@
          "desc": "I created an ecommerce website selling skincare for my javascript project",
          "id": 7,
          "image": "https://i.postimg.cc/w38ptVNv/Standard-Beauty-Blog-Header-1080x720.png",
-         "link": "https://taupe-choux-39005e.netlify.app/"
+         "link": "https://taupe-choux-39005e.netlify.app/",
+         "category": "Javascript"
 
      },
      {
@@ -116,7 +123,8 @@
          "desc": "I created an ecommerce website selling coffee for my final project",
          "id": 8,
          "image": "https://i.postimg.cc/G2Np3vh7/download.jpg",
-         "link": "https://capstone-56f38.web.app/"
+         "link": "https://capstone-56f38.web.app/",
+         "category": "VueJs"
 
      }
  ],
