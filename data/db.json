@@ -63,7 +63,8 @@
          "id": 1,
          "image": "https://i.postimg.cc/kXFRnhpd/image.jpg",
          "link": "https://papaya-fairy-13d0df.netlify.app/",
-         "category": "HTML & CSS"
+         "category": "HTML & CSS",
+         "colour": "#8b2fc9"
      },
      {
          "title": "LC Group Project",
@@ -71,7 +72,8 @@
          "id": 2,
          "image": "https://i.postimg.cc/y62n5TG5/blk-lc.png",
          "link": "https://life-choices-project.netlify.app/",
-         "category": "HTML & CSS"
+         "category": "HTML & CSS",
+          "colour": "#d283ff"
 
      },
      {
@@ -80,7 +82,8 @@
          "id": 3,
          "image": "https://i.postimg.cc/50B8jZ1Q/backgr.jpg",
          "link": "https://mellifluous-hamster-2eca04.netlify.app/",
-         "category": "Bootstrap"
+         "category": "Bootstrap",
+         "colour": "#ab51e3"
      },
      {
          "title": "Calculator",
@@ -88,7 +91,8 @@
          "id":4,
          "image": "https://i.postimg.cc/SsfmnGPx/editors-keys-h63f-Ledow-K8-unsplash-1.jpg",
          "link": "https://frabjous-granita-1f98e6.netlify.app/",
-         "category": "Javascript"
+         "category": "Javascript",
+         "colour": "#dc97ff"
 
      },
      {
@@ -97,7 +101,8 @@
          "id": 5,
          "image": "https://i.postimg.cc/Hx0c2Xrr/bg.jpg",
          "link": "https://famous-cuchufli-caf48c.netlify.app/",
-         "category": "Javascript"
+         "category": "Javascript",
+         "colour": "#bd68ee"
 
      },
      {
@@ -106,8 +111,8 @@
          "id": 6,
          "image": "https://i.postimg.cc/2yK0zsCR/the-blowup-Rmjq07-KI20-U-unsplash.jpg",
          "link": "https://meta-devices-store.netlify.app/",
-         "category": "Javascript"
-
+         "category": "Javascript",
+         "colour": "#8b2fc9"
      },
      {
          "title": " Javascript EOMP",
@@ -115,8 +120,8 @@
          "id": 7,
          "image": "https://i.postimg.cc/w38ptVNv/Standard-Beauty-Blog-Header-1080x720.png",
          "link": "https://taupe-choux-39005e.netlify.app/",
-         "category": "Javascript"
-
+         "category": "Javascript",
+         "colour": "#d283ff"
      },
      {
          "title": "Capstone",
@@ -124,8 +129,8 @@
          "id": 8,
          "image": "https://i.postimg.cc/G2Np3vh7/download.jpg",
          "link": "https://capstone-56f38.web.app/",
-         "category": "VueJs"
-
+         "category": "VueJs",
+         "colour": "#bd68ee"
      }
  ],
 
